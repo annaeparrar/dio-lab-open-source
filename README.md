@@ -1,5 +1,3 @@
-# README.md
-
 # Entendendo o Desafio – Contribuição Open Source
 
 ## Descrição da Contribuição
